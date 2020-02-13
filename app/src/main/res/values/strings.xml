@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DokkanNotif</string>
+    <string name="currentStaminaVal">0</string>
+    <string name="currentStamina">Current Stamina</string>
+    <string name="replenishTime">Replenish Time(mins)</string>
+    <string name="replenishTimeVal">5</string>
+    <string name="notifFull">false</string>
+    <string name="fullText">Be Notified When Stamina Is Full</string>
+    <string name="staminaMax">Max Stamina</string>
+    <string name="staminaMaxVal">150</string>
+    <string name="setNotif">Set Notification</string>
+    <string name="channel_name">low</string>
+    <string name="channel_description">stamina notif</string>
+    <string name="maxStaValue">100</string>
+    <string name="maxRefillValue">5</string>
+
+
+</resources>
